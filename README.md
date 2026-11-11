@@ -18,6 +18,13 @@
 
 ---
 
+> [!NOTE]
+> 📢 **Android 平台维护公告 / Android Maintenance Notice**  
+> 我们的安卓平台正在维护中，请密切关注 Discord 频道消息，或者暂时使用[旧版本安卓服务器](https://github.com/yemoyu123/Bd2_Client/tree/main)。  
+> *The Android platform is currently under maintenance. Please stay tuned to our Discord channel announcements or temporarily connect to the legacy Android server.*
+
+---
+
 > ⚠️ **仅供个人学习使用，非商业。** 本仓库不含官方客户端与游戏资源本体，请自行通过官方启动器获取游戏；由此产生的一切后果由使用者自行承担。  
 > ⚠️ **For personal study and research only, non-commercial.** This repository does not host or redistribute official game clients or copyrighted assets. Please obtain the original game via the official launcher. Users assume all responsibilities and liabilities arising from its use.
 
