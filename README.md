@@ -79,3 +79,12 @@
 > **免责声明 / Disclaimer**：  
 > 本服务器为第三方技术交流项目，所有游戏美术、音乐及剧情文本版权均归官方开发商与发行商所有。请支持正版游戏。  
 > *This server is a third-party open-source research initiative. All game art, audio, character assets, and storylines remain the intellectual property of their original developers and publishers. Please support the official game.*
+
+---
+## ❤️ 致谢 / Credits
+
+| 角色 / Role | 成员 / Members |
+| :--- | :--- |
+| **👑 制作 (Author)** | `blue` |
+| **🛠️ 维护 (Maintainers)** | `yemoyu123` &nbsp;•&nbsp; `Cola` &nbsp;•&nbsp; `北野桜奈` &nbsp;•&nbsp; `C1en` &nbsp;•&nbsp; `Aliceikkk` |
+| **📱 移动端支持 (Mobile Tech)** | `Ruri.` |
