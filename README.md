@@ -25,8 +25,8 @@
 
 ## 快速入群
 
-- **Discord 频道**：`https://discord.gg/xxxxxx`
-- **最新补丁下载**：见[github releases](https://github.com/BrownDust2CN/NEWBD2Client/releases)
+- **Discord 频道**：[https://discord.gg/fTJsUZK3JE](https://discord.gg/fTJsUZK3JE)
+- **最新补丁下载**：见[releases](https://github.com/BrownDust2CN/NEWBD2Client/releases)
 
 ---
 
@@ -42,7 +42,7 @@
 ## 常见问题 (FAQ)
 
 * **Q: 提示“网络连接中断”或错误代码怎么办？**  
-  *A:* 请检查是否已按教程正确安装证书，或确认服务器当前是否处于维护状态（留意群内公告）。
+  *A:* 请检查是否已按教程正确安装补丁，或确认服务器当前是否处于维护状态（留意Discord内公告）。
 
 * **Q: 会影响官方账号吗？**  
   *A:* 完全不会。测试服采用独立的网络地址与本地客户端配置，与官方客户端互不干扰。
