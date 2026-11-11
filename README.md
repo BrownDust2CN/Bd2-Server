@@ -9,7 +9,7 @@
 
   <p align="center">
     <a href="https://github.com/BrownDust2CN/Bd2-Server/stargazers"><img src="https://img.shields.io/github/stars/BrownDust2CN/Bd2-Server?style=for-the-badge&logo=github&color=e05d44" alt="Stars" /></a>
-    <a href="https://github.com/BrownDust2CN/Bd2-Server/network/members"><img src="https://img.shields.io/github/forks/BrownDust2CN/Bd2-Server?style=for-the-badge&logo=github&color=dfb317" alt="Forks" /></a>
+    <img src="https://img.shields.io/badge/Platform-Android%20%7C%20Windows-blueviolet?style=for-the-badge&logo=android&logoColor=white" alt="Platform" />
     <a href="https://github.com/BrownDust2CN/Bd2-Server/issues"><img src="https://img.shields.io/github/issues/BrownDust2CN/Bd2-Server?style=for-the-badge&logo=github&color=4c1" alt="Issues" /></a>
     <img src="https://img.shields.io/badge/Server-Online-brightgreen?style=for-the-badge&logo=statuspage" alt="Status" />
     <img src="https://img.shields.io/badge/Price-100%25%20Free-blue?style=for-the-badge&logo=unlicense" alt="Free" />
